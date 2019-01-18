@@ -38,8 +38,13 @@ a:hover {
   border-color: #000;
 }
 
+img {
+  max-width: 100%;
+}
+
 .banner {
   display: flex;
+  margin: 2rem;
 }
 
 .text {
